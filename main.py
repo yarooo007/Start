@@ -1,1 +1,3 @@
-print('Hello, world!')
+from settings import x
+
+print('Hello, world!', x)
